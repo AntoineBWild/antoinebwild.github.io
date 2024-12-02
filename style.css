@@ -1,0 +1,38 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #F0FFFF
+}
+
+h2{
+font-size: 20px;
+text-align: center;
+color: #F0FFFF
+}
+
+p{
+font-size: 20px;
+text-align: center;
+font-family: Arial;
+color: #F0FFFF
+}
+
+body {
+background-color: #A9A9A9;
+position: center
+}
+
+
+img {
+  display: block;
+  width: 30%;
+  margin: auto
+}
+
+
+a {
+  display: block;
+  margin: 0 auto;
+  font-size: 12px;
+  text-align: center
+}
